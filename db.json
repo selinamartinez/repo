@@ -1,4 +1,4 @@
-[ "data": {
+{ "data": [ {
 	"id": 1,
 	"requester": "selinama",
 	"pr_id": "27192",
@@ -43,4 +43,4 @@
 	"workflow": "BUILDPROMOTE",
 	"scrumteam": "TTN Red",
 	"program": "Code Improvements"
-}]
+}] }
